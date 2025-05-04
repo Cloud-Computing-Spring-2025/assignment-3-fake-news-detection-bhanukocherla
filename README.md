@@ -27,7 +27,9 @@ Remove stopwords
 
 Convert token array to string for CSV compatibility
 
-Output: task2_output.csv
+**Output** : task2_output.csv
+
+
 ```bash
 
 python3 task2.py
