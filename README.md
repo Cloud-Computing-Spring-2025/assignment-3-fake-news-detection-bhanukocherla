@@ -29,7 +29,6 @@ Convert token array to string for CSV compatibility
 
 - **Output**: `task2_output.csv`
 
-
 ```bash
 python3 task2.py
 
@@ -40,10 +39,11 @@ Encode label column using StringIndexer
 
 Convert vectors and arrays to strings for saving
 
-Output: task3_output.csv
+- **Output**: `task3_output.csv`
 
 ```bash
 python3 task3.py
+
 
 Task 4: Model Training
 Split data into 80% train / 20% test
@@ -54,10 +54,11 @@ Predict on test set
 
 Save predictions
 
-Output: task4_output.csv
+- **Output**: `task4_output.csv`
 
 ```bash
 python3 task4.py
+
 
 Task 5: Evaluation
 Evaluate with MulticlassClassificationEvaluator
@@ -66,7 +67,7 @@ Compute Accuracy and F1 Score
 
 Save metrics to CSV
 
-Output: task5_output.csv
+- **Output**: `task5_output.csv`
 
 ```bash
 python3 task5.py
