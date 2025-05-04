@@ -18,7 +18,7 @@ Task 1: Load & Basic Exploration
 python3 task1.py
 
 
-Task 2: Text Preprocessing
+### Task 2: Text Preprocessing
 Convert text to lowercase
 
 Tokenize text into words
@@ -27,7 +27,7 @@ Remove stopwords
 
 Convert token array to string for CSV compatibility
 
-**Output** : task2_output.csv
+- **Output**: `task2_output.csv`
 
 
 ```bash
